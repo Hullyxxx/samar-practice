@@ -162,7 +162,7 @@ body {
     margin: 25px 0;
 }
 
-.service__content .content__item {
+.service__content .content__item1 {
     padding: 45px 10px;
     background-color: white;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -171,20 +171,20 @@ body {
     transition: 0.3s;
 }
 
-.service__content .content__item:hover {
+.service__content .content__item1:hover {
     transform: translateY(-15px);
 }
 
-.service__content .content__item img {
+.service__content .content__item1 img {
     width: 60%;
 }
 
-.service__content .content__item h2 {
+.service__content .content__item1 h2 {
     font-size: 24px;
     font-weight: 600;
 }
 
-.service__content .content__item p {
+.service__content .content__item1 p {
     font-size: 16px;
     color: #636363;
 }
